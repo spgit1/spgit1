@@ -1,7 +1,7 @@
 - 🙏 Namaste
 - 👀 I’m interested in Automobile 
 - 🌱 I’m currently learning python & machine learning
-- 📫 How to reach me 1sp.satyam@gmail.com
+- 📫 How to reach me satyamsp72@gmail.com
 
 <!---
 spgit1/spgit1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
